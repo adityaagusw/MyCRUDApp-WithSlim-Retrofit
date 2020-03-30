@@ -12,5 +12,5 @@ This project uses the method of create, read, update, and delete. This project u
   ```
   
 ### Restful Api
-- Github [MyCRUDApp-Slim-Restful](https://github.com/adityaagusw/Rest-Api-Slim-Framework---Retrofit-Kotlin)
+- Github [MyCRUDApp-Slim-Restful](https://github.com/adityaagusw/MyCRUDApp-Slim-Restful)
 
